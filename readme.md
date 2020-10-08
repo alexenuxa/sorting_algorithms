@@ -2,7 +2,9 @@
 # Hacktoberfest2k20
 
 Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
-Anyone can send any type of code.
+
+
+
 
 ## Steps to contribute
 
@@ -13,3 +15,5 @@ Anyone can send any type of code.
 5. **Give this project a star if you liked working on it and share it as much as you can with people new to Open Source**
 
 ##
+
+add only sorting algorithums using any language
